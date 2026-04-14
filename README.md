@@ -46,8 +46,16 @@ POST /api/items
 PUT /api/items/:id
 DELETE /api/items/:id
 
+## Login Page
+![Login Page](./screenshots/Login.png)
 
-## Dashboard
+## Register Page
+![Register Page](./screenshots/register.png)
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+## DashboardCrud
 ![CRUD](./screenshots/crud-operations.png)
 
 ## Database
